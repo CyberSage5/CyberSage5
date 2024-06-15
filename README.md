@@ -1,6 +1,8 @@
-
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
   <h1 align="center">
+
+    
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Welcome+To+My+Github;John+Here...;Nice+to+meet+you!&center=true&size=32">
   </a>
@@ -12,8 +14,8 @@
    <h2 align="center"> ⚡ Profile Stats ⚡</h2>
    
 <p align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CyberSage5&show_icons=true&theme=tokyonight&show_icons=true" />
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSage5theme=tokyonight" />
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=CyberSage5&show_icons=true&theme=tokyonight&show_icons=true" />
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSage5theme=tokyonight" />
 </p>
 
 
@@ -39,5 +41,7 @@ I love turning ideas into reality through code and creating seamless user interf
 ### 📫 Let's Connect:
 
 Feel free to reach out to me on 📫 terfajohn45@gmail.com to discuss collaborations, opportunities, or just to geek out about the latest trends in frontend development.
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31r2sywecojxnwgpzejct2plechu)
 
 
