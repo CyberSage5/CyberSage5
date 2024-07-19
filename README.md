@@ -1,5 +1,3 @@
-<a href="https://gitroll.io/profile/ucd9seqxsbiML25nAn1lp3ZnsI523" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ucd9seqxsbiML25nAn1lp3ZnsI523" alt="GitRoll Profile Badge"/></a>
-
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
 
   <h1 align="center">
@@ -15,11 +13,7 @@
   
    <h2 align="center"> ⚡ Profile Stats ⚡</h2>
    
-<p align="center">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=CyberSage5&show_icons=true&theme=tokyonight&show_icons=true" />
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberSage5theme=tokyonight" />
-</p>
-
+<a href="https://gitroll.io/profile/ucd9seqxsbiML25nAn1lp3ZnsI523" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ucd9seqxsbiML25nAn1lp3ZnsI523" alt="GitRoll Profile Badge"/></a>
 
 
    <h2 align="center"> ⚡ Little About ⚡</h2>
