@@ -38,6 +38,5 @@ I love turning ideas into reality through code and creating seamless user interf
 
 Feel free to reach out to me on 📫 terfajohn45@gmail.com to discuss collaborations, opportunities, or just to geek out about the latest trends in frontend development.
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31r2sywecojxnwgpzejct2plechu)
-
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31r2sywecojxnwgpzejct2plechu&footer=wave)
 
